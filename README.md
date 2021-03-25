@@ -1,7 +1,7 @@
 # Python-scripts
 A collection of various Python scripts from research and numerical computing applications
 
-### Group Meetings - Winter 2021:
+### Table of Contents:
 | Script | Description                  |
 |--------|------------------------------|
 | A1.py | Comprises functions used to generate a random quadratic matrix, evaluate a quadratic function value and its gradient at a point, and the n-dimensional PermII test function on randomly generated input.|
